@@ -1,143 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Indah%20Ruwahna&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Informatika%20%E2%80%A2%20UPB%20%E2%80%A2%20Frontend%20Developer&descSize=17&descAlignY=60&descColor=c9d1ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Wahyu%20Tri&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=React%20Developer%20%E2%80%A2%203D%20Artist%20%E2%80%A2%20Creative%20Builder&descSize=17&descAlignY=60&descColor=c9d1ff" width="100%"/>
 
 </div>
 
-<div align="center">
+## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Fancy seeing you here!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Halo!+Aku+Indah+Ruwahna+%F0%9F%91%8B;Mahasiswa+Informatika+Semester+4+%F0%9F%8E%93;Suka+bikin+tampilan+web+yang+cakep+%F0%9F%92%BB;Anggota+UKM+Mapala+%7C+Speleologi+%26+Navigasi+%F0%9F%A7%AD;Sedang+belajar+%26+terus+berkembang+%F0%9F%9A%80)](https://git.io/typing-svg)
+<h1 align="center">
+  Hey, I'm Wahyu! 👨‍💻
+</h1>
 
-</div>
+<p align="center">
+  <img src="https://files.catbox.moe/6g9yf3.gif" width="480" alt="Animated Avatar" />
+</p>
 
----
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
-
-### 👤 Siapa Aku?
-
-Halo! Namaku **Indah Ruwahna**, mahasiswa **Informatika** di Universitas Putra Bangsa.
-
-Aku tertarik pada dunia **Frontend Development** — membangun tampilan web yang menarik, responsif, dan ramah pengguna. Selain kuliah, aku aktif di **UKM Mapala** dengan fokus **Navigasi Darat** dan juga komunitas IT Putra Bangsa
-
-Saat ini, aku sedang mengembangkan **Portal Wisata Alam Goa Asrep** — proyek nyata yang menggabungkan teknologi web dengan pariwisata berkelanjutan.
-```
-📍 Lokasi     : Indonesia
-🎓 Kampus     : Universitas Putra Bangsa
-📚 Jurusan    : Informatika — Semester 4 
-💡 Minat      : Frontend Dev & UI/UX
-🏔️ Komunitas  : IT Putra Bangsa
-🎯 Tujuan     : Jadi developer yang berdampak
-```
-
-<br clear="right"/>
+<p align="center">
+  I'm a React Developer passionate about creating interactive and modern web applications — combining clean design, performance, and seamless user experiences.
+</p>
 
 ---
 
-### 🛠️ Keahlian & Tech Stack
+## 🧰 Tech Stack
 
-<div align="center">
-
-#### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 💻 Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" />
+  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+</p>
 
 ---
 
-### 📈 Level Keahlian
-```
-HTML5       ████████████░░░░  75% ✅ Cukup mahir
-CSS3        ██████████░░░░░░  60% 📐 Terus diasah
-JavaScript  ████████░░░░░░░░  50% ⚡ Aktif belajar
-Figma       ███████░░░░░░░░░  45% 🎨 Mulai lancar
-Python      ██████░░░░░░░░░░  40% 🐍 Belajar serius
-Java        █████░░░░░░░░░░░  35% ☕ Dasar kuat
-```
+## 🔭 Current Focus
+
+- ⚛️ Developing modern apps with **React**
+- 🧩 Exploring **frontend + backend integration**
+- 🌐 Building interactive 3D with **React Three Fiber**
+- 🎨 Creating 3D assets using **Blender**
 
 ---
 
-### 🚀 Project Unggulan
+## 🚀 Highlight Project
 
-<div align="center">
-
-| Project | Deskripsi | Tech |
-|--------|-----------|------|
-| 🌄 **Goa Asrep Portal** | Platform web wisata berkelanjutan dengan sistem QR interaktif | HTML · CSS · JS |
-| 🧭 **Navigasi App** *(soon)* | Tools navigasi darat digital untuk kegiatan outdoor | JS · Geolocation API |
-| 🎨 **Portfolio Site** *(WIP)* | Website portofolio personal yang responsif & modern | HTML · CSS · JS |
-
-</div>
+- 🧠 Interactive 3D Web Experience (React Three Fiber)
+- 🛒 Fullstack POS System (React + Node.js)
+- 🌌 Solar System 3D Simulation
 
 ---
 
-### 🌱 Yang Sedang Aku Pelajari
+## 📊 GitHub Stats
 
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruwahna&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruwahna&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🏆 Aktivitas & Pencapaian
+## 📫 Let's Connect
 
-- 🎓 Mahasiswa aktif Informatika UPB — Semester 3
-- 🏔️ Anggota aktif **UKM Mapala** bidang Speleologi & Navigasi Darat
-- 💻 Sedang membangun **Wisata Alam Goa Asrep** sebagai destinasi wisata petualangan berkelanjutan
-- 📱 Aktif belajar merancang UI/UX yang ramah pengguna lewat Figma
-- 🌐 Mengembangkan kemampuan frontend dari HTML dasar sampai JavaScript interaktif
-
----
-
-### 📬 Hubungi Aku
-
-<div align="center">
-
-<a href="https://instagram.com/i.anugraheni">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/indahruwahna">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:indahruwahnaanugraheni@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://wa.me">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://tiktok.com/@indah01_13">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-<a href="https://github.com/ruwahna">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/wahyu-tri-cahya-a33607368">
+    <img src="https://img.shields.io/badge/LinkedIn-wahyutricahya-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@yuriya_dev">
+    <img src="https://img.shields.io/badge/TikTok-@yuriya__dev-black?style=flat&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="mailto:yuriyaproject@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yuriyaproject@gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-> *"Kode yang baik bukan hanya yang berjalan — tapi yang bisa dimengerti orang lain."* 💜
-
-![Profile Views](https://komarev.com/ghpvc/?username=ruwahna&color=7c3aed&style=flat-square&label=Profile+Dilihat)
+> *"Build something people remember."* 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
+
+<sub>print("thank you...")</sub>
