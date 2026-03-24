@@ -184,6 +184,9 @@ const wahyu = {
 > *"Build something people remember."* 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=c9d1ff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=c9d1ff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=c9d1ff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=c9d1ff&animation=twinkling" width="100%"/>
 
 </div>
 
